@@ -2,7 +2,7 @@
 I'm Aika, from Kyrgyzstan, living in Konstanz,Germany.
 I'am learning to code on #neuefische and I'm excited.
 I like to:
--test
+- test
 - hiking
 - snowboarding
 - play to poker
