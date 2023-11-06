@@ -1,6 +1,6 @@
 # Hello there! 👋
 I'm Aika, from 🇰🇬 living in Konstanz,Germany.
-I'am learning to code on **Neuefische GMbH** and I'm excited 😃
+I'am learning to code on **Neuefische GmbH** and I'm excited 😃
 I like to:
 - hiking ⛰️
 - snowboarding 🏂
