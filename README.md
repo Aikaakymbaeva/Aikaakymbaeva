@@ -9,11 +9,11 @@ I like to:
 - swimming
 - biking
 
-  !{Hiking Montafon} (https://www.alpenhotel-montafon.net/wp-content/uploads/wanderurlaub-montafon-vorarlberg-2.jpg)
+  ![Hiking Montafon] (https://www.alpenhotel-montafon.net/wp-content/uploads/wanderurlaub-montafon-vorarlberg-2.jpg)
   
 ## My Knowis
--test
--HTML
--CSS
-### 
-#### My projects
+- test
+- HTML
+- CSS
+
+
