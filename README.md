@@ -10,9 +10,10 @@ I'm Aika, a passionate, enthusiastic future web developer from Constance. Welcom
 #### My Skill Set ####
 ![Static Badge](https://img.shields.io/badge/HTML5-%23f03d30?style=plastic&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=plastic&logo=css3&logoColor=white) ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=plastic&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=plastic&logo=react&logoColor=%2361DAFB&color=black) ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=plastic&logo=mongodb&logoColor=%2347A248&color=white) ![Static Badge](https://img.shields.io/badge/NEXT.js-%23000000?style=plastic&logo=nextdotjs&logoColor=%23000000&color=white)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aikaakymbaeva&show_icons=true&theme=radical)](https://github.com/Aikaakymbaeva)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aikaakymbaeva&show_icons=true&theme=default)](https://github.com/Aikaakymbaeva)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aikaakymbaeva&layout=compact&theme=radical)](https://github.com/Aikaakymbaeva)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aikaakymbaeva&layout=compact&theme=default)](https://github.com/Aikaakymbaeva)
+
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Aikaakymbaeva&labelColor=%23f47373&countColor=%23dce775&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=Aikaakymbaeva)
 
