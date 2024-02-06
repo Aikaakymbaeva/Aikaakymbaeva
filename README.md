@@ -1,6 +1,6 @@
 # Hello, there! 👋
 
-I'm Aika, a passionate, enthusiastic future web developer from Constance. Welcome to my ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=github&logoColor=white)
+I'm Aika, a passionate, enthusiastic future web developer from Constance. Welcome to my [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=github&logoColor=white)](https://github.com/Aikaakymbaeva)
  profile!
 
 - 🔭 I’m currently student at [Neuefische GmbH](https://www.neuefische.de/?utm_source=sea_google&utm_medium=maxp&utm_campaign=neuefische_leads_max_performance&gad=1&gclid=CjwKCAiAxreqBhAxEiwAfGfndLIpzRBPv68qbnwllD2RF8KzQHdrPSUA3Zp6bZXt1wBFSP6KnX5dGRoC1qwQAvD_BwE)
