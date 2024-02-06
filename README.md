@@ -1,16 +1,18 @@
-# Hello there! 👋
-I'm Aika, from [**Kyrgyzstan🇰🇬❤**](https://i0.wp.com/pamirhighwayadventure.com/wp-content/uploads/2018/01/666.jpg?resize=700%2C466&ssl=1) living in Konstanz, Germany. I'am learning to code on [**Neuefische GmbH**](https://www.neuefische.de/?utm_source=sea_google&utm_medium=maxp&utm_campaign=neuefische_leads_max_performance&gad=1&gclid=CjwKCAiAxreqBhAxEiwAfGfndLIpzRBPv68qbnwllD2RF8KzQHdrPSUA3Zp6bZXt1wBFSP6KnX5dGRoC1qwQAvD_BwE) and I'm excited 😃
-## I like to:
-[Hiking](https://www.nps.gov/grte/planyourvisit/images/Hiking-NPS-Photo-J-Tobiason_3.jpg?maxwidth=1300&maxheight=1300&autorotate=false), [Pokern](https://images.t3n.de/news/wp-content/uploads/2023/04/Poker.jpg?class=hero-small), [Biking](https://gesundheitszentrum-kleis.de/wp-content/uploads/sites/73/2021/08/apo_Fahrradfahren_AdobeStock_564581569.jpg),[Painting](https://cdna.artstation.com/p/assets/images/images/057/727/638/large/fan-johnny-3a75f972698303d716c769904172fb8d.jpg?1672482645) etc.
+# Hello, there! 👋
+
+I'm Aika, a passionate, enthusiastic future web developer from Constance. Welcome to my ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=github&logoColor=white)
+ profile!
+
+- 🔭 I’m currently student at [Neuefische GmbH](https://www.neuefische.de/?utm_source=sea_google&utm_medium=maxp&utm_campaign=neuefische_leads_max_performance&gad=1&gclid=CjwKCAiAxreqBhAxEiwAfGfndLIpzRBPv68qbnwllD2RF8KzQHdrPSUA3Zp6bZXt1wBFSP6KnX5dGRoC1qwQAvD_BwE)
+- 🌱 I’m currently learning else on [Udemy](https://www.udemy.com/) to enhance my skills
+- 💬 Ask me about
   
-![Hiking Montafon](https://img1.dreamies.de/img/191/b/zp4me9qww0m.gif)
-### I love :
-🍌 🍎 🍫 ☕  
-## My Knowis
-- **HTML**
-- **CSS**
+![Static Badge](https://img.shields.io/badge/HTML5-%23f03d30?style=plastic&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=plastic&logo=css3&logoColor=white) ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=plastic&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=plastic&logo=react&logoColor=%2361DAFB&color=black) ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=plastic&logo=mongodb&logoColor=%2347A248&color=white) ![Static Badge](https://img.shields.io/badge/NEXT.js-%23000000?style=plastic&logo=nextdotjs&logoColor=%23000000&color=white)
 
 
-**Thank you for visisting my page! See you soon!** 💫
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aikaakymbaeva&show_icons=true&theme=radical)](https://github.com/Aikaakymbaeva)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aikaakymbaeva&layout=compact&theme=radical)](https://github.com/Aikaakymbaeva)
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Aikaakymbaeva&labelColor=%23f47373&countColor=%23dce775&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=Aikaakymbaeva)
 
