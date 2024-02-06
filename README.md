@@ -7,8 +7,8 @@ I'm Aika, a passionate, enthusiastic future web developer from Constance. Welcom
 - 🌱 I’m currently learning else on [Udemy](https://www.udemy.com/) to enhance my skills
 - 💬 Ask me aboute 🏂🏔
   
+#### My Skill Set ####
 ![Static Badge](https://img.shields.io/badge/HTML5-%23f03d30?style=plastic&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=plastic&logo=css3&logoColor=white) ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=plastic&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=plastic&logo=react&logoColor=%2361DAFB&color=black) ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=plastic&logo=mongodb&logoColor=%2347A248&color=white) ![Static Badge](https://img.shields.io/badge/NEXT.js-%23000000?style=plastic&logo=nextdotjs&logoColor=%23000000&color=white)
-
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aikaakymbaeva&show_icons=true&theme=radical)](https://github.com/Aikaakymbaeva)
 
